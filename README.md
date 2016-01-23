@@ -30,3 +30,9 @@ ee.emit('send', event)
 ```
 ee.on('location', (event) => handleEvent(event))
 ```
+
+## Build Development
+
+```
+npm run build
+```
